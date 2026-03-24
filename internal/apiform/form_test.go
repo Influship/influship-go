@@ -2,7 +2,7 @@ package apiform
 
 import (
 	"bytes"
-	"github.com/stainless-sdks/influship-api-go/packages/param"
+	"github.com/Influship/influship-go/packages/param"
 	"io"
 	"mime/multipart"
 	"strings"

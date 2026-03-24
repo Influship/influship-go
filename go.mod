@@ -1,4 +1,4 @@
-module github.com/stainless-sdks/influship-api-go
+module github.com/Influship/influship-go
 
 go 1.22
 

@@ -1,8 +1,8 @@
 package paramutil
 
 import (
-	"github.com/stainless-sdks/influship-api-go/packages/param"
-	"github.com/stainless-sdks/influship-api-go/packages/respjson"
+	"github.com/Influship/influship-go/packages/param"
+	"github.com/Influship/influship-go/packages/respjson"
 )
 
 func AddrIfPresent[T comparable](v param.Opt[T]) *T {

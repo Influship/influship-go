@@ -3,8 +3,8 @@ package respjson_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/stainless-sdks/influship-api-go/internal/apijson"
-	rj "github.com/stainless-sdks/influship-api-go/packages/respjson"
+	"github.com/Influship/influship-go/internal/apijson"
+	rj "github.com/Influship/influship-go/packages/respjson"
 	"reflect"
 	"testing"
 )

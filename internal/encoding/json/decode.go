@@ -14,7 +14,7 @@ import (
 	"encoding"
 	"encoding/base64"
 	"fmt"
-	"github.com/stainless-sdks/influship-api-go/internal/encoding/json/shims"
+	"github.com/Influship/influship-go/internal/encoding/json/shims"
 	"reflect"
 	"strconv"
 	"strings"

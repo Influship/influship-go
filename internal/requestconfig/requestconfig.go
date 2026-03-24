@@ -18,10 +18,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/stainless-sdks/influship-api-go/internal"
-	"github.com/stainless-sdks/influship-api-go/internal/apierror"
-	"github.com/stainless-sdks/influship-api-go/internal/apiform"
-	"github.com/stainless-sdks/influship-api-go/internal/apiquery"
+	"github.com/Influship/influship-go/internal"
+	"github.com/Influship/influship-go/internal/apierror"
+	"github.com/Influship/influship-go/internal/apiform"
+	"github.com/Influship/influship-go/internal/apiquery"
 )
 
 func getDefaultHeaders() map[string]string {

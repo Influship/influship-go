@@ -3,9 +3,9 @@
 package influshipapi
 
 import (
-	"github.com/stainless-sdks/influship-api-go/internal/apierror"
-	"github.com/stainless-sdks/influship-api-go/packages/param"
-	"github.com/stainless-sdks/influship-api-go/shared"
+	"github.com/Influship/influship-go/internal/apierror"
+	"github.com/Influship/influship-go/packages/param"
+	"github.com/Influship/influship-go/shared"
 )
 
 // aliased to make [param.APIUnion] private when embedding

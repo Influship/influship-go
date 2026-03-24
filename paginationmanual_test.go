@@ -7,9 +7,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/stainless-sdks/influship-api-go"
-	"github.com/stainless-sdks/influship-api-go/internal/testutil"
-	"github.com/stainless-sdks/influship-api-go/option"
+	"github.com/Influship/influship-go"
+	"github.com/Influship/influship-go/internal/testutil"
+	"github.com/Influship/influship-go/option"
 )
 
 func TestManualPagination(t *testing.T) {

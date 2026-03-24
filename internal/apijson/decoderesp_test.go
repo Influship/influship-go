@@ -2,8 +2,8 @@ package apijson_test
 
 import (
 	"encoding/json"
-	"github.com/stainless-sdks/influship-api-go/internal/apijson"
-	"github.com/stainless-sdks/influship-api-go/packages/respjson"
+	"github.com/Influship/influship-go/internal/apijson"
+	"github.com/Influship/influship-go/packages/respjson"
 	"testing"
 )
 

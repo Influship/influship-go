@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/stainless-sdks/influship-api-go/packages/param"
+	"github.com/Influship/influship-go/packages/param"
 )
 
 var encoders sync.Map // map[encoderEntry]encoderFunc

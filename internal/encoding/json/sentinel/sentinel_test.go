@@ -1,8 +1,8 @@
 package sentinel_test
 
 import (
-	"github.com/stainless-sdks/influship-api-go/internal/encoding/json/sentinel"
-	"github.com/stainless-sdks/influship-api-go/packages/param"
+	"github.com/Influship/influship-go/internal/encoding/json/sentinel"
+	"github.com/Influship/influship-go/packages/param"
 	"reflect"
 	"slices"
 	"testing"

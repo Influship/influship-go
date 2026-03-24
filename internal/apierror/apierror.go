@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"net/http/httputil"
 
-	"github.com/stainless-sdks/influship-api-go/internal/apijson"
-	"github.com/stainless-sdks/influship-api-go/packages/respjson"
+	"github.com/Influship/influship-go/internal/apijson"
+	"github.com/Influship/influship-go/packages/respjson"
 )
 
 // Error represents an error that originates from the API, i.e. when a request is
