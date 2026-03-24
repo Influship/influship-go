@@ -1,7 +1,7 @@
 package apijson
 
 import (
-	"github.com/stainless-sdks/influship-api-go/packages/respjson"
+	"github.com/Influship/influship-go/packages/respjson"
 	"reflect"
 )
 

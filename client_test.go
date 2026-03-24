@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/stainless-sdks/influship-api-go"
-	"github.com/stainless-sdks/influship-api-go/internal"
-	"github.com/stainless-sdks/influship-api-go/option"
+	"github.com/Influship/influship-go"
+	"github.com/Influship/influship-go/internal"
+	"github.com/Influship/influship-go/option"
 )
 
 type closureTransport struct {

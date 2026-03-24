@@ -1,7 +1,7 @@
 package influshipapi
 
 import (
-	"github.com/stainless-sdks/influship-api-go/packages/param"
+	"github.com/Influship/influship-go/packages/param"
 	"io"
 	"time"
 )

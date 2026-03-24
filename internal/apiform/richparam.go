@@ -1,7 +1,7 @@
 package apiform
 
 import (
-	"github.com/stainless-sdks/influship-api-go/packages/param"
+	"github.com/Influship/influship-go/packages/param"
 	"mime/multipart"
 	"reflect"
 )

@@ -3,7 +3,7 @@
 package influshipapi
 
 import (
-	"github.com/stainless-sdks/influship-api-go/option"
+	"github.com/Influship/influship-go/option"
 )
 
 // RawService contains methods and other services that help with interacting with

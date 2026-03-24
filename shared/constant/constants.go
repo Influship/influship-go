@@ -3,7 +3,7 @@
 package constant
 
 import (
-	shimjson "github.com/stainless-sdks/influship-api-go/internal/encoding/json"
+	shimjson "github.com/Influship/influship-go/internal/encoding/json"
 )
 
 type Constant[T any] interface {

@@ -8,10 +8,10 @@ import (
 	"slices"
 	"time"
 
-	"github.com/stainless-sdks/influship-api-go/internal/apijson"
-	"github.com/stainless-sdks/influship-api-go/internal/requestconfig"
-	"github.com/stainless-sdks/influship-api-go/option"
-	"github.com/stainless-sdks/influship-api-go/packages/respjson"
+	"github.com/Influship/influship-go/internal/apijson"
+	"github.com/Influship/influship-go/internal/requestconfig"
+	"github.com/Influship/influship-go/option"
+	"github.com/Influship/influship-go/packages/respjson"
 )
 
 // API health and status endpoints
