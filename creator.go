@@ -10,14 +10,14 @@ import (
 	"net/url"
 	"slices"
 
-	"github.com/stainless-sdks/influship-api-go/internal/apijson"
-	"github.com/stainless-sdks/influship-api-go/internal/apiquery"
-	"github.com/stainless-sdks/influship-api-go/internal/requestconfig"
-	"github.com/stainless-sdks/influship-api-go/option"
-	"github.com/stainless-sdks/influship-api-go/packages/pagination"
-	"github.com/stainless-sdks/influship-api-go/packages/param"
-	"github.com/stainless-sdks/influship-api-go/packages/respjson"
-	"github.com/stainless-sdks/influship-api-go/shared"
+	"github.com/Influship/influship-go/internal/apijson"
+	"github.com/Influship/influship-go/internal/apiquery"
+	"github.com/Influship/influship-go/internal/requestconfig"
+	"github.com/Influship/influship-go/option"
+	"github.com/Influship/influship-go/packages/pagination"
+	"github.com/Influship/influship-go/packages/param"
+	"github.com/Influship/influship-go/packages/respjson"
+	"github.com/Influship/influship-go/shared"
 )
 
 // Retrieve creator profiles and discover new creators through search,

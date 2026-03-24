@@ -2,7 +2,7 @@ package param_test
 
 import (
 	"encoding/json"
-	"github.com/stainless-sdks/influship-api-go/packages/param"
+	"github.com/Influship/influship-go/packages/param"
 	"testing"
 )
 

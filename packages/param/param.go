@@ -2,7 +2,7 @@ package param
 
 import (
 	"encoding/json"
-	"github.com/stainless-sdks/influship-api-go/internal/encoding/json/sentinel"
+	"github.com/Influship/influship-go/internal/encoding/json/sentinel"
 	"reflect"
 )
 

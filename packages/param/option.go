@@ -3,7 +3,7 @@ package param
 import (
 	"encoding/json"
 	"fmt"
-	shimjson "github.com/stainless-sdks/influship-api-go/internal/encoding/json"
+	shimjson "github.com/Influship/influship-go/internal/encoding/json"
 	"time"
 )
 

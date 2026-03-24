@@ -3,8 +3,8 @@ package apijson_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/stainless-sdks/influship-api-go/internal/apijson"
-	"github.com/stainless-sdks/influship-api-go/packages/param"
+	"github.com/Influship/influship-go/internal/apijson"
+	"github.com/Influship/influship-go/packages/param"
 	"reflect"
 	"testing"
 )

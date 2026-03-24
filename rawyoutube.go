@@ -12,13 +12,13 @@ import (
 	"slices"
 	"time"
 
-	"github.com/stainless-sdks/influship-api-go/internal/apijson"
-	"github.com/stainless-sdks/influship-api-go/internal/apiquery"
-	"github.com/stainless-sdks/influship-api-go/internal/requestconfig"
-	"github.com/stainless-sdks/influship-api-go/option"
-	"github.com/stainless-sdks/influship-api-go/packages/param"
-	"github.com/stainless-sdks/influship-api-go/packages/respjson"
-	"github.com/stainless-sdks/influship-api-go/shared/constant"
+	"github.com/Influship/influship-go/internal/apijson"
+	"github.com/Influship/influship-go/internal/apiquery"
+	"github.com/Influship/influship-go/internal/requestconfig"
+	"github.com/Influship/influship-go/option"
+	"github.com/Influship/influship-go/packages/param"
+	"github.com/Influship/influship-go/packages/respjson"
+	"github.com/Influship/influship-go/shared/constant"
 )
 
 // Fetch fresh data directly from social platforms in real-time. Use when you need
